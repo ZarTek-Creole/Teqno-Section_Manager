@@ -1,0 +1,9 @@
+Section Manager by Teqno
+
+This will simplify the add/remove of sections for people
+that finds it too tedious to manually do the work. It checks
+for various scripts in /glftpd/bin folder including the script
+pzs-ng and adds the proper lines. Be sure to put the right
+paths for glftpd and pzs-ng before running this script and
+don't forget to rehash the bot after the script is done. This
+manager is intended for incoming sections only and not archive
